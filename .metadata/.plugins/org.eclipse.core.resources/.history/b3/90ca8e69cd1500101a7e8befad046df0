@@ -1,0 +1,14 @@
+package com.shristi.basics;
+
+public class IfDemo {
+
+	public static void main(String[] args) {
+		String username = "Priya";
+		
+		if(username.equals("Priya")) {
+			System.out.println("Welcome "+username);
+		}else {
+			System.out.println("Wrong username");
+		}
+	}
+}

@@ -1,0 +1,25 @@
+package com.oops.overload;
+
+public class Vehicle {
+	String model;
+	String brand;
+	double price;
+	public Vehicle() {
+		//super() will added automatically
+		System.out.println("No ARgs");
+	}
+	public Vehicle(String model) {
+		this();
+		System.out.println("No ARgs");
+		this.model = model;
+	}
+	public Vehicle(String model, double price) {
+		this(model);
+		this.price = price;
+	}
+	
+	public Vehicle(String model, String brand, double price) {
+		this(model,price);
+		this.brand = brand;
+	}
+}

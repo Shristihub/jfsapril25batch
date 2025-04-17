@@ -1,0 +1,39 @@
+package com.oops.basics;
+
+public class Employee {
+	
+	int employeeId;
+	double salary;
+	String employeeName;
+	 Employee(String empl,int employeeId,double salary){
+		 // this refers to the current object
+		 this.employeeName = empl;
+		 this.employeeId = employeeId;
+		 this.salary = salary;
+	 }
+	
+	
+	
+	void printDetails() {
+		System.out.println("Name " + employeeName);
+		System.out.println("Id " + employeeId);
+		System.out.println("Salary " + salary);
+	}
+	
+	void greetMessage(String message){
+		System.out.println(message);
+	}
+	double calcBonus(double amount){
+		double bonus = salary+amount;
+		return bonus;
+	}
+}
+
+
+
+
+
+
+
+
+

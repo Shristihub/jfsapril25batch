@@ -1,0 +1,10 @@
+package com.shristi.arrays;
+
+public class ArrDemo {
+	public static void main(String[] args) {
+		
+		// declare an array
+		int[] marks;
+	}
+
+}
