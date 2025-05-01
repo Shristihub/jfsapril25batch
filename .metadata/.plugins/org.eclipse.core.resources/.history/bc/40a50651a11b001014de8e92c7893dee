@@ -1,8 +1,0 @@
-package com.oops.overload;
-
-public class Vehicle {
-	String model;
-	String brand;
-	double price;
-
-}

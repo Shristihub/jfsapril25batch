@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.oops.overload.Shape"/>
+    <fullyQualifiedTypeName name="com.oops.overload.StudDemo"/>
+    <fullyQualifiedTypeName name="com.oops.overload.Vehicle"/>
+    <fullyQualifiedTypeName name="com.shristi.inher.Employee"/>
+    <fullyQualifiedTypeName name="com.shristi.inher.Manager"/>
+    <fullyQualifiedTypeName name="com.shristi.training.Rectangle"/>
 </qualifiedTypeNameHistroy>
