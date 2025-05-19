@@ -2,4 +2,10 @@
 <typeInfoHistroy>
     <typeInfo handle="=AbsDemo/src&lt;com.abs.quest1{Animal.java[Animal" modifiers="1025" timestamp="1745854197581"/>
     <typeInfo handle="=AbsDemo/src&lt;com.abs.quest1{WildAnimal.java[WildAnimal" modifiers="1025" timestamp="1745854724905"/>
+    <typeInfo handle="=AbsDemo/src&lt;com.abs.quest3{Vehicle.java[Vehicle" modifiers="1025" timestamp="1746114366887"/>
+    <typeInfo handle="=AbsAssignments/src&lt;com.abs.example{Cuisine.java[Cuisine" modifiers="1025" timestamp="1746246816654"/>
+    <typeInfo handle="=InterfaceDemos/src&lt;com.inter.basic.quest1{IClub.java[IClub" modifiers="513" timestamp="1746458601660"/>
+    <typeInfo handle="=InterfaceDemos/src&lt;com.inter.basic.quest2{Calculator.java[Calculator" modifiers="513" timestamp="1746717362299"/>
+    <typeInfo handle="=InterfaceDemos/src&lt;com.inter.basic.lamb{IGreeter.java[IGreeter" modifiers="513" timestamp="1747063893616"/>
+    <typeInfo handle="=ExceptionDemos/C:\/Program Files\/Java\/jdk-21\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/21\/docs\/api\/=/=/module=/true=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1729839745325"/>
 </typeInfoHistroy>

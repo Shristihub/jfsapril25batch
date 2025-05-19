@@ -18,6 +18,13 @@ public class Demo {
 		System.out.println("Hello "+name);
 		
 	}
+	void greet() {
+		System.out.println("great day");
+	}
+	
+	static  Demo createInstance() {
+		return new Demo();
+	}
 //	public static void main(String[] args) {
 //		sayHello("Priya");
 //		

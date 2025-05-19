@@ -14,6 +14,7 @@ public class Trial {
 	}
 	
 	public static void main(String[] args) {
-		Demo d =new Demo();
+		Demo d = Demo.createInstance();
+		d.greet();
 	}
 }
