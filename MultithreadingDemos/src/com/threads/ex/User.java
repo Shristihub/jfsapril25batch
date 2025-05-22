@@ -1,6 +1,6 @@
 package com.threads.ex;
 
-public class Customer {
+public class User {
 
 	public static void main(String[] args) {
 		Booking booking = new Booking();

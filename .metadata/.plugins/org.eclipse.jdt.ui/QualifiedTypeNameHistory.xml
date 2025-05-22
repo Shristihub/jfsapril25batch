@@ -41,4 +41,9 @@
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="com.excep.ques3.NameNotFoundException"/>
     <fullyQualifiedTypeName name="com.excep.ques3.Employee"/>
+    <fullyQualifiedTypeName name="com.threads.ex.Child"/>
+    <fullyQualifiedTypeName name="com.threads.ex.TicketCounter"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.threads.ex.Booking"/>
+    <fullyQualifiedTypeName name="java.awt.print.Book"/>
 </qualifiedTypeNameHistroy>
