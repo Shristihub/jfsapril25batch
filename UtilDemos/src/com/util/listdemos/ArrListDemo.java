@@ -44,6 +44,8 @@ public class ArrListDemo {
 		
 		for(String name:names)
 			System.out.println(name);
+		
+	
 	}
 
 }
