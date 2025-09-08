@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.stream.Stream;
 
-public class Demo1 {
+public class Demo2 {
 	
 	public static void main(String[] args) {
 		        int[] nums = {3, 5, 1, 4, 2, 5, 3};

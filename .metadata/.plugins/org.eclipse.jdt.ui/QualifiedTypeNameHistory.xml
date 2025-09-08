@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.threads.ex.TicketCounter"/>
-    <fullyQualifiedTypeName name="com.threads.ex.Booking"/>
-    <fullyQualifiedTypeName name="java.awt.print.Book"/>
-    <fullyQualifiedTypeName name="com.threads.ex1.LoanDepartment"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
-    <fullyQualifiedTypeName name="com.threads.ex1.Student"/>
-    <fullyQualifiedTypeName name="com.threads.run.Trainer"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
-    <fullyQualifiedTypeName name="com.productapp.model.Product"/>
     <fullyQualifiedTypeName name="com.productapp.util.ProductDetails"/>
     <fullyQualifiedTypeName name="com.productapp.exceptions.ProductNotFoundException"/>
     <fullyQualifiedTypeName name="com.productapp.service.IProductService"/>
@@ -23,7 +14,6 @@
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
@@ -50,7 +40,6 @@
     <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
-    <fullyQualifiedTypeName name="com.shristi.training.Calculator"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Disabled"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
@@ -60,4 +49,15 @@
     <fullyQualifiedTypeName name="org.junit.jupiter.api.DisplayName"/>
     <fullyQualifiedTypeName name="com.shristi.exceptions.NegativeMarksException"/>
     <fullyQualifiedTypeName name="java.nio.InvalidMarkException"/>
+    <fullyQualifiedTypeName name="com.shristi.training.StudentDetails"/>
+    <fullyQualifiedTypeName name="com.shristi.training.Calculator"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.shristi.training.BonusDetails"/>
 </qualifiedTypeNameHistroy>

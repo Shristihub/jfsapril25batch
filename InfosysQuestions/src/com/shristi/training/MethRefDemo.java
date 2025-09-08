@@ -1,10 +1,11 @@
 package com.shristi.training;
 
-interface Calculator{
-	int sum(int x, int y);
-}
+
 interface Greeter{
 	void sayHello(String username);
+}
+interface Calculator{
+	int sum(int x, int y);
 }
 
 class StudentDetails{
@@ -20,7 +21,25 @@ class StudentDetails{
 public class MethRefDemo {
 
 	public static void main(String[] args) {
-	
+		//refering to a static method of a different class
+		Greeter greet = StudentDetails::greetUser;
+		//call
+		greet.sayHello("Priya");
+		
+		//refering to a instance method of a different class
+		StudentDetails studentDetails =  new StudentDetails();
+		//implementation
+		Calculator calc = studentDetails::totalMarks;
+		//call
+		System.out.println(calc.sum(20, 30));
+		
+		
+		
+		
 		
 	}
 }
+
+
+
+
